@@ -25,6 +25,8 @@ url: >-
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/organon-domain-security.yml
   - type: Website
     url: https://www.organon.com
   - type: Portal
